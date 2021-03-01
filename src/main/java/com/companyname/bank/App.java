@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "changes for jenkins purpose" );
+        System.out.println( "changes for jenkins purpose new modifications" );
     }
 }
